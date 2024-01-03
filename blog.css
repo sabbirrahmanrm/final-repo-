@@ -1,0 +1,12 @@
+div{
+ color: blue;
+ border: 20px solid tomato;
+ border-radius: 5px;
+ margin: 5px;
+ padding: 5px;
+ box-shadow: 5px 5px 5px;
+
+}
+img{
+ box-shadow: 5px 5px 5px;
+}
